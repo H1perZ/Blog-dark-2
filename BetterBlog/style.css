@@ -1,0 +1,226 @@
+* {
+    padding:0px;
+    margin:0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    overflow: scroll;
+    height: 100%;
+    width:100%;
+}
+header {
+    background-color:black;
+    color: white;
+    height:50px;
+    width:100%;
+
+}
+.ul1{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 10px;
+    position:relative;
+    width: 600px;
+    margin-left: 200px;
+    text-align: center;
+    
+    
+
+
+}
+.ul2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    list-style-type: none;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.down {
+    width: 500px;
+    
+    
+}
+.ul2 li {
+    margin-top: 30px;
+    
+
+}
+.
+
+
+.pic1 {
+    text-align: center;
+    
+}
+.pic2 {
+    padding: 15px;
+    position: relative;
+    margin-left: 140px;
+}
+.pic3 {
+    float:right;
+    padding: 15px;
+    margin-top: -463px;
+    position: relative;
+    margin-right: 140px;
+}
+.gra1 {
+    margin-left: 300px;
+    font-size: 30px;
+
+}
+.gra2 {
+
+}
+
+
+.svg {
+    float: right;
+    margin-top: 15px;
+    margin-right: 200px;
+    
+    
+
+}
+.title {
+    font-weight: bolder;
+    font-size:75px;
+    text-align:center;
+}
+.undertitle {
+    text-align: center;
+    font-weight: bolder;
+    margin-top: -20px;
+    
+}
+main {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:#F1F1F1;
+    height: 100%;
+}
+svg:hover {
+    color: gray;
+}
+.h1:hover {
+    color: gray;
+}
+.h2:hover {
+    color: gray;
+}
+.h3:hover {
+    color: gray;
+}
+.h4:hover {
+    color: gray;
+}
+.h5:hover {
+    color: gray;
+}
+.h6:hover {
+    color: gray;
+}
+.mcforza {
+    
+}
+.divmcupdate {
+    margin-left: 150px;
+    width: 635px;
+}
+.mctitle {
+    font-size: 40px;
+    font-weight: bolder;
+    
+    
+}
+.mctext {
+    margin-top: 10px;
+    font-size: 20px;
+}
+.newforza {
+    float:right;
+    width:635px;
+    margin-right: 150px;
+    margin-top: -450px;
+}
+.forzatitle {
+    float:left;
+    font-size: 40px;
+    font-weight: bold;
+}
+.forzatext {
+    float:right;
+    font-size:20px ;
+}
+.divlog {
+    background-color:#dbdbdb;
+    width:800px;
+    height: 450px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    margin-top: 100px;
+    
+    
+    
+}
+.log {
+    font-size:50px;
+    margin-top: 40px;
+}
+.email{
+    font-size: 25px;
+    margin-top:15px;
+}
+.emailtext {
+    width: 300px;
+    margin-top: 5px;
+    height:27px;
+    
+}
+.haslo {
+    font-size:25px;
+    margin-top: 5px;
+}
+.haslotext {
+    width: 300px;
+    height: 27px;
+}
+.btnlogin {
+
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+
+}
+footer {
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+.divstopki {
+    background-color: black;
+    width: 100%;
+    position: relative;
+    height: 500px;
+    bottom:0px;
+
+
+    
+    
+}
+.dol {
+    margin-top: 1000px;
+    color:#F1F1F1;
+}
